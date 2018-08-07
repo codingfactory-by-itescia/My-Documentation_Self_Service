@@ -1,11 +1,16 @@
-Documentation en français pas à pas avec illustration.
 
-JAVASCRIPT ES6
 
-NODEJS / BABEL / MODULE / NPM / POSTMAN / CREATION D'UNE API AVEC EXPRESS.
+-----------------------Documentation en français avec illustration------------------------
 
-REACTJS / REDUX / REACT-THUNK / REACT-ROUTER
+----------------------------------------Front--------------------------------------------- 
 
-REACTNATIVE
+JAVASCRIPT ES6 /REACTJS / REDUX / REACT-THUNK / REACT-ROUTER / REACT_NATIVE/ CSS / Compass Saas
 
-GRAPHIQL
+----------------------------------------Back--------------------------------------------- 
+
+NODEJS / BABEL / MODULE / NPM / POSTMAN / GRAPHIQL / CREATION D'UNE API AVEC EXPRESS.
+
+
+----------------------------Gestionnaire de versioning------------------------------------ 
+
+GIT + TOWER "interface graphique"
